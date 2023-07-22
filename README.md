@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47opjbt1rtd41con98nkbs40zpuwqsooe6nbug5zqe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47opjbt1rtd41con98nkbs40zpuwqsooe6nbug5zqe&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
 <h1 align="center">
