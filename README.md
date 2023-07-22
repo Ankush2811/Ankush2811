@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![ezgif-2-](https://user-images.githubusercontent.com/54500608/184078587-10328f90-e44f-43ab-8146-7d619564cbdd.gif)
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/thecodingspacerd-space-coding-thecodingspace-ve43TyDQ3B4me7d22z" width="600" height="300"/>
 </div>
 
 <h1 align="center">
