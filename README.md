@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![ezgif-2-](https://user-images.githubusercontent.com/54500608/184078587-10328f90-e44f-43ab-8146-7d619564cbdd.gif)
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://cdn.dribbble.com/users/4578246/screenshots/11686961/tundra2_4x.png)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">
