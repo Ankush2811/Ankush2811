@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://giphy.com/gifs/thecodingspacerd-space-coding-thecodingspace-ve43TyDQ3B4me7d22z" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47d84s27aunlsmts85hot7wmfp5oq9cf32lvaamae0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 <h1 align="center">
