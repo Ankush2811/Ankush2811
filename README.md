@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 ![ezgif-2-](https://user-images.githubusercontent.com/54500608/184078587-10328f90-e44f-43ab-8146-7d619564cbdd.gif)
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
 
 <h1 align="center">
 Hi there👋, I'm Ankush Soni
@@ -65,6 +62,6 @@ I love the entire process of developing creative websites.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush2811&layout=compact)](https://github.com/Ankush2811)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ankush2811.Ankush2811)](https://www.yushi.dev/)
+
 
 
