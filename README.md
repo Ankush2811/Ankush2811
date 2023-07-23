@@ -1,6 +1,6 @@
 
 <!--
-**Ankush2811/Ankush2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ankush Soni/Ankush Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47opjbt1rtd41con98nkbs40zpuwqsooe6nbug5zqe&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
 </div>
 
 <h1 align="center">
