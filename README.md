@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-  <img src="https://raw.githubusercontent.com/Ankush2811/Ankush2811/master/resources/banner.png" alt="Hello world">
 </div>
 
 <h1 align="center">
@@ -30,9 +29,9 @@ I love the entire process of developing creative websites.
 
 ## 🔭 I'm currently working on
 
-- Refining my Javascript skill
-- Refining my React Skill
-- Making new projects
+- Working on NestJS with React.js as primary technologies.
+- Learning Advanced React Concepts.
+- Developing new projects.
 
 
 ## 💼 Technical Skills
